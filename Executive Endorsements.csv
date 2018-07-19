@@ -1,0 +1,738 @@
+County ,County Code,Media Market,Newspaper,Year Code,Winner,Loser,endorsewin,countyid
+Baker,2,Jacksonville,Florida Times-Union,2014,1,0,1,22014
+Bradford,4,Jacksonville,Florida Times-Union,2014,1,0,1,42014
+Clay,10,Jacksonville,Florida Times-Union,2014,1,0,1,102014
+Columbia,12,Jacksonville,Florida Times-Union,2014,1,0,1,122014
+Duval,16,Jacksonville,Florida Times-Union,2014,1,0,1,162014
+Nassau,45,Jacksonville,Florida Times-Union,2014,1,0,1,452014
+Putnam,54,Jacksonville,Florida Times-Union,2014,1,0,1,542014
+St. Johns,58,Jacksonville,Florida Times-Union,2014,1,0,1,582014
+Union,63,Jacksonville,Florida Times-Union,2014,1,0,1,632014
+Charlotte,8,Ft. Myers/Naples,Naples Daily News,2014,1,0,1,82014
+Collier,11,Ft. Myers/Naples,Naples Daily News,2014,1,0,1,112014
+De Soto,14,Ft. Myers/Naples,Naples Daily News,2014,1,0,1,142014
+Glades,22,Ft. Myers/Naples,Naples Daily News,2014,1,0,1,222014
+Hendry,26,Ft. Myers/Naples,Naples Daily News,2014,1,0,1,262014
+Lee,36,Ft. Myers/Naples,Naples Daily News,2014,1,0,1,362014
+Brevard,5,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2014,0,1,0,52014
+Flagler,18,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2014,0,1,0,182014
+Lake,35,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2014,0,1,0,352014
+Marion,42,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2014,0,1,0,422014
+Orange,48,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2014,0,1,0,482014
+Osceola,49,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2014,0,1,0,492014
+Seminole,57,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2014,0,1,0,572014
+Sumter,60,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2014,0,1,0,602014
+Volusia,64,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2014,0,1,0,642014
+Escambia,17,Pensacola/Panhandle,Pensacola News Journal,2014,9,9,0,172014
+Okaloosa,46,Pensacola/Panhandle,Pensacola News Journal,2014,9,9,0,462014
+Sant Rosa,55,Pensacola/Panhandle,Pensacola News Journal,2014,9,9,0,552014
+Gadsen,20,Tallahassee,Tallahassee Democrat,2014,0,1,0,202014
+Hamilton,24,Tallahassee,Tallahassee Democrat,2014,0,1,0,242014
+Jefferson,33,Tallahassee,Tallahassee Democrat,2014,0,1,0,332014
+Lafayette,34,Tallahassee,Tallahassee Democrat,2014,0,1,0,342014
+Leon,37,Tallahassee,Tallahassee Democrat,2014,0,1,0,372014
+Madison,40,Tallahassee,Tallahassee Democrat,2014,0,1,0,402014
+Suwannee,61,Tallahassee,Tallahassee Democrat,2014,0,1,0,612014
+Taylor,62,Tallahassee,Tallahassee Democrat,2014,0,1,0,622014
+Wakulla,65,Tallahassee,Tallahassee Democrat,2014,0,1,0,652014
+Citrun,9,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2014,0,1,0,92014
+Hardee,25,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2014,0,1,0,252014
+Hernando,27,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2014,0,1,0,272014
+Highlands,28,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2014,0,1,0,282014
+Hillsborough,29,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2014,0,1,0,292014
+Manatee,41,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2014,0,1,0,412014
+Pasco,51,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2014,0,1,0,512014
+Pinellas,52,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2014,0,1,0,522014
+Polk,53,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2014,0,1,0,532014
+Sarasota,56,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2014,0,1,0,562014
+Alachua,1,Gainesville,The Gainesville Sun,2014,,,0,12014
+Dixie,15,Gainesville,The Gainesville Sun,2014,,,0,152014
+Gilchrist,21,Gainesville,The Gainesville Sun,2014,,,0,212014
+Levy,38,Gainesville,The Gainesville Sun,2014,,,0,382014
+Broward,6,Miami/Ft. Lauderdale,The Miami Herald,2014,0,1,0,62014
+Dade,13,Miami/Ft. Lauderdale,The Miami Herald,2014,0,1,0,132014
+Monroe,44,Miami/Ft. Lauderdale,The Miami Herald,2014,0,1,0,442014
+Bay ,3,Panama City,The News Herald,2014,,,0,32014
+Calhoun,7,Panama City,The News Herald,2014,,,0,72014
+Franklin,19,Panama City,The News Herald,2014,,,0,192014
+Gulf,23,Panama City,The News Herald,2014,,,0,232014
+Holmes,30,Panama City,The News Herald,2014,,,0,302014
+Jackson,32,Panama City,The News Herald,2014,,,0,322014
+Liberty,39,Panama City,The News Herald,2014,,,0,392014
+Walton,66,Panama City,The News Herald,2014,,,0,662014
+Washington,67,Panama City,The News Herald,2014,,,0,672014
+Indian River,31,West Palm Beach/Ft. Piece,The Palm Beach Post,2014,0,1,0,312014
+Martin,43,West Palm Beach/Ft. Piece,The Palm Beach Post,2014,0,1,0,432014
+Okeechobee,47,West Palm Beach/Ft. Piece,The Palm Beach Post,2014,0,1,0,472014
+Palm Beach,50,West Palm Beach/Ft. Piece,The Palm Beach Post,2014,0,1,0,502014
+St. Lucie,59,West Palm Beach/Ft. Piece,The Palm Beach Post,2014,0,1,0,592014
+Baker,2,Jacksonville,Florida Times-Union,2012,0,1,0,22012
+Bradford,4,Jacksonville,Florida Times-Union,2012,0,1,0,42012
+Clay,10,Jacksonville,Florida Times-Union,2012,0,1,0,102012
+Columbia,12,Jacksonville,Florida Times-Union,2012,0,1,0,122012
+Duval,16,Jacksonville,Florida Times-Union,2012,0,1,0,162012
+Nassau,45,Jacksonville,Florida Times-Union,2012,0,1,0,452012
+Putnam,54,Jacksonville,Florida Times-Union,2012,0,1,0,542012
+St. Johns,58,Jacksonville,Florida Times-Union,2012,0,1,0,582012
+Union,63,Jacksonville,Florida Times-Union,2012,0,1,0,632012
+Charlotte,8,Ft. Myers/Naples,Naples Daily News,2012,0,1,0,82012
+Collier,11,Ft. Myers/Naples,Naples Daily News,2012,0,1,0,112012
+De Soto,14,Ft. Myers/Naples,Naples Daily News,2012,0,1,0,142012
+Glades,22,Ft. Myers/Naples,Naples Daily News,2012,0,1,0,222012
+Hendry,26,Ft. Myers/Naples,Naples Daily News,2012,0,1,0,262012
+Lee,36,Ft. Myers/Naples,Naples Daily News,2012,0,1,0,362012
+Brevard,5,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2012,0,1,0,52012
+Flagler,18,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2012,0,1,0,182012
+Lake,35,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2012,0,1,0,352012
+Marion,42,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2012,0,1,0,422012
+Orange,48,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2012,0,1,0,482012
+Osceola,49,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2012,0,1,0,492012
+Seminole,57,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2012,0,1,0,572012
+Sumter,60,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2012,0,1,0,602012
+Volusia,64,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2012,0,1,0,642012
+Escambia,17,Pensacola/Panhandle,Pensacola News Journal,2012,0,1,0,172012
+Okaloosa,46,Pensacola/Panhandle,Pensacola News Journal,2012,0,1,0,462012
+Sant Rosa,55,Pensacola/Panhandle,Pensacola News Journal,2012,0,1,0,552012
+Gadsen,20,Tallahassee,Tallahassee Democrat,2012,,,0,202012
+Hamilton,24,Tallahassee,Tallahassee Democrat,2012,,,0,242012
+Jefferson,33,Tallahassee,Tallahassee Democrat,2012,,,0,332012
+Lafayette,34,Tallahassee,Tallahassee Democrat,2012,,,0,342012
+Leon,37,Tallahassee,Tallahassee Democrat,2012,,,0,372012
+Madison,40,Tallahassee,Tallahassee Democrat,2012,,,0,402012
+Suwannee,61,Tallahassee,Tallahassee Democrat,2012,,,0,612012
+Taylor,62,Tallahassee,Tallahassee Democrat,2012,,,0,622012
+Wakulla,65,Tallahassee,Tallahassee Democrat,2012,,,0,652012
+Citrun,9,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2012,1,0,1,92012
+Hardee,25,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2012,1,0,1,252012
+Hernando,27,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2012,1,0,1,272012
+Highlands,28,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2012,1,0,1,282012
+Hillsborough,29,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2012,1,0,1,292012
+Manatee,41,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2012,1,0,1,412012
+Pasco,51,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2012,1,0,1,512012
+Pinellas,52,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2012,1,0,1,522012
+Polk,53,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2012,1,0,1,532012
+Sarasota,56,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2012,1,0,1,562012
+Alachua,1,Gainesville,The Gainesville Sun,2012,,,0,12012
+Dixie,15,Gainesville,The Gainesville Sun,2012,,,0,152012
+Gilchrist,21,Gainesville,The Gainesville Sun,2012,,,0,212012
+Levy,38,Gainesville,The Gainesville Sun,2012,,,0,382012
+Broward,6,Miami/Ft. Lauderdale,The Miami Herald,2012,1,0,1,62012
+Dade,13,Miami/Ft. Lauderdale,The Miami Herald,2012,1,0,1,132012
+Monroe,44,Miami/Ft. Lauderdale,The Miami Herald,2012,1,0,1,442012
+Bay ,3,Panama City,The News Herald,2012,,,0,32012
+Calhoun,7,Panama City,The News Herald,2012,,,0,72012
+Franklin,19,Panama City,The News Herald,2012,,,0,192012
+Gulf,23,Panama City,The News Herald,2012,,,0,232012
+Holmes,30,Panama City,The News Herald,2012,,,0,302012
+Jackson,32,Panama City,The News Herald,2012,,,0,322012
+Liberty,39,Panama City,The News Herald,2012,,,0,392012
+Walton,66,Panama City,The News Herald,2012,,,0,662012
+Washington,67,Panama City,The News Herald,2012,,,0,672012
+Indian River,31,West Palm Beach/Ft. Piece,The Palm Beach Post,2012,9,9,0,312012
+Martin,43,West Palm Beach/Ft. Piece,The Palm Beach Post,2012,9,9,0,432012
+Okeechobee,47,West Palm Beach/Ft. Piece,The Palm Beach Post,2012,9,9,0,472012
+Palm Beach,50,West Palm Beach/Ft. Piece,The Palm Beach Post,2012,9,9,0,502012
+St. Lucie,59,West Palm Beach/Ft. Piece,The Palm Beach Post,2012,9,9,0,592012
+Baker,2,Jacksonville,Florida Times-Union,2010,0,1,0,22010
+Bradford,4,Jacksonville,Florida Times-Union,2010,0,1,0,42010
+Clay,10,Jacksonville,Florida Times-Union,2010,0,1,0,102010
+Columbia,12,Jacksonville,Florida Times-Union,2010,0,1,0,122010
+Duval,16,Jacksonville,Florida Times-Union,2010,0,1,0,162010
+Nassau,45,Jacksonville,Florida Times-Union,2010,0,1,0,452010
+Putnam,54,Jacksonville,Florida Times-Union,2010,0,1,0,542010
+St. Johns,58,Jacksonville,Florida Times-Union,2010,0,1,0,582010
+Union,63,Jacksonville,Florida Times-Union,2010,0,1,0,632010
+Charlotte,8,Ft. Myers/Naples,Naples Daily News,2010,0,1,0,82010
+Collier,11,Ft. Myers/Naples,Naples Daily News,2010,0,1,0,112010
+De Soto,14,Ft. Myers/Naples,Naples Daily News,2010,0,1,0,142010
+Glades,22,Ft. Myers/Naples,Naples Daily News,2010,0,1,0,222010
+Hendry,26,Ft. Myers/Naples,Naples Daily News,2010,0,1,0,262010
+Lee,36,Ft. Myers/Naples,Naples Daily News,2010,0,1,0,362010
+Brevard,5,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2010,0,1,0,52010
+Flagler,18,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2010,0,1,0,182010
+Lake,35,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2010,0,1,0,352010
+Marion,42,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2010,0,1,0,422010
+Orange,48,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2010,0,1,0,482010
+Osceola,49,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2010,0,1,0,492010
+Seminole,57,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2010,0,1,0,572010
+Sumter,60,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2010,0,1,0,602010
+Volusia,64,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2010,0,1,0,642010
+Escambia,17,Pensacola/Panhandle,Pensacola News Journal,2010,0,1,0,172010
+Okaloosa,46,Pensacola/Panhandle,Pensacola News Journal,2010,0,1,0,462010
+Sant Rosa,55,Pensacola/Panhandle,Pensacola News Journal,2010,0,1,0,552010
+Gadsen,20,Tallahassee,Tallahassee Democrat,2010,0,1,0,202010
+Hamilton,24,Tallahassee,Tallahassee Democrat,2010,0,1,0,242010
+Jefferson,33,Tallahassee,Tallahassee Democrat,2010,0,1,0,332010
+Lafayette,34,Tallahassee,Tallahassee Democrat,2010,0,1,0,342010
+Leon,37,Tallahassee,Tallahassee Democrat,2010,0,1,0,372010
+Madison,40,Tallahassee,Tallahassee Democrat,2010,0,1,0,402010
+Suwannee,61,Tallahassee,Tallahassee Democrat,2010,0,1,0,612010
+Taylor,62,Tallahassee,Tallahassee Democrat,2010,0,1,0,622010
+Wakulla,65,Tallahassee,Tallahassee Democrat,2010,0,1,0,652010
+Citrun,9,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2010,0,1,0,92010
+Hardee,25,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2010,0,1,0,252010
+Hernando,27,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2010,0,1,0,272010
+Highlands,28,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2010,0,1,0,282010
+Hillsborough,29,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2010,0,1,0,292010
+Manatee,41,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2010,0,1,0,412010
+Pasco,51,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2010,0,1,0,512010
+Pinellas,52,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2010,0,1,0,522010
+Polk,53,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2010,0,1,0,532010
+Sarasota,56,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2010,0,1,0,562010
+Alachua,1,Gainesville,The Gainesville Sun,2010,,,0,12010
+Dixie,15,Gainesville,The Gainesville Sun,2010,,,0,152010
+Gilchrist,21,Gainesville,The Gainesville Sun,2010,,,0,212010
+Levy,38,Gainesville,The Gainesville Sun,2010,,,0,382010
+Broward,6,Miami/Ft. Lauderdale,The Miami Herald,2010,0,1,0,62010
+Dade,13,Miami/Ft. Lauderdale,The Miami Herald,2010,0,1,0,132010
+Monroe,44,Miami/Ft. Lauderdale,The Miami Herald,2010,0,1,0,442010
+Bay ,3,Panama City,The News Herald,2010,,,0,32010
+Calhoun,7,Panama City,The News Herald,2010,,,0,72010
+Franklin,19,Panama City,The News Herald,2010,,,0,192010
+Gulf,23,Panama City,The News Herald,2010,,,0,232010
+Holmes,30,Panama City,The News Herald,2010,,,0,302010
+Jackson,32,Panama City,The News Herald,2010,,,0,322010
+Liberty,39,Panama City,The News Herald,2010,,,0,392010
+Walton,66,Panama City,The News Herald,2010,,,0,662010
+Washington,67,Panama City,The News Herald,2010,,,0,672010
+Indian River,31,West Palm Beach/Ft. Piece,The Palm Beach Post,2010,0,1,0,312010
+Martin,43,West Palm Beach/Ft. Piece,The Palm Beach Post,2010,0,1,0,432010
+Okeechobee,47,West Palm Beach/Ft. Piece,The Palm Beach Post,2010,0,1,0,472010
+Palm Beach,50,West Palm Beach/Ft. Piece,The Palm Beach Post,2010,0,1,0,502010
+St. Lucie,59,West Palm Beach/Ft. Piece,The Palm Beach Post,2010,0,1,0,592010
+Baker,2,Jacksonville,Florida Times-Union,2008,9,9,0,22008
+Bradford,4,Jacksonville,Florida Times-Union,2008,9,9,0,42008
+Clay,10,Jacksonville,Florida Times-Union,2008,9,9,0,102008
+Columbia,12,Jacksonville,Florida Times-Union,2008,9,9,0,122008
+Duval,16,Jacksonville,Florida Times-Union,2008,9,9,0,162008
+Nassau,45,Jacksonville,Florida Times-Union,2008,9,9,0,452008
+Putnam,54,Jacksonville,Florida Times-Union,2008,9,9,0,542008
+St. Johns,58,Jacksonville,Florida Times-Union,2008,9,9,0,582008
+Union,63,Jacksonville,Florida Times-Union,2008,9,9,0,632008
+Charlotte,8,Ft. Myers/Naples,Naples Daily News,2008,1,0,1,82008
+Collier,11,Ft. Myers/Naples,Naples Daily News,2008,1,0,1,112008
+De Soto,14,Ft. Myers/Naples,Naples Daily News,2008,1,0,1,142008
+Glades,22,Ft. Myers/Naples,Naples Daily News,2008,1,0,1,222008
+Hendry,26,Ft. Myers/Naples,Naples Daily News,2008,1,0,1,262008
+Lee,36,Ft. Myers/Naples,Naples Daily News,2008,1,0,1,362008
+Brevard,5,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2008,1,0,1,52008
+Flagler,18,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2008,1,0,1,182008
+Lake,35,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2008,1,0,1,352008
+Marion,42,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2008,1,0,1,422008
+Orange,48,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2008,1,0,1,482008
+Osceola,49,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2008,1,0,1,492008
+Seminole,57,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2008,1,0,1,572008
+Sumter,60,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2008,1,0,1,602008
+Volusia,64,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2008,1,0,1,642008
+Escambia,17,Pensacola/Panhandle,Pensacola News Journal,2008,1,0,1,172008
+Okaloosa,46,Pensacola/Panhandle,Pensacola News Journal,2008,1,0,1,462008
+Sant Rosa,55,Pensacola/Panhandle,Pensacola News Journal,2008,1,0,1,552008
+Gadsen,20,Tallahassee,Tallahassee Democrat,2008,,,0,202008
+Hamilton,24,Tallahassee,Tallahassee Democrat,2008,,,0,242008
+Jefferson,33,Tallahassee,Tallahassee Democrat,2008,,,0,332008
+Lafayette,34,Tallahassee,Tallahassee Democrat,2008,,,0,342008
+Leon,37,Tallahassee,Tallahassee Democrat,2008,,,0,372008
+Madison,40,Tallahassee,Tallahassee Democrat,2008,,,0,402008
+Suwannee,61,Tallahassee,Tallahassee Democrat,2008,,,0,612008
+Taylor,62,Tallahassee,Tallahassee Democrat,2008,,,0,622008
+Wakulla,65,Tallahassee,Tallahassee Democrat,2008,,,0,652008
+Citrun,9,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2008,1,0,1,92008
+Hardee,25,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2008,1,0,1,252008
+Hernando,27,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2008,1,0,1,272008
+Highlands,28,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2008,1,0,1,282008
+Hillsborough,29,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2008,1,0,1,292008
+Manatee,41,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2008,1,0,1,412008
+Pasco,51,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2008,1,0,1,512008
+Pinellas,52,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2008,1,0,1,522008
+Polk,53,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2008,1,0,1,532008
+Sarasota,56,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2008,1,0,1,562008
+Alachua,1,Gainesville,The Gainesville Sun,2008,1,0,1,12008
+Dixie,15,Gainesville,The Gainesville Sun,2008,1,0,1,152008
+Gilchrist,21,Gainesville,The Gainesville Sun,2008,1,0,1,212008
+Levy,38,Gainesville,The Gainesville Sun,2008,1,0,1,382008
+Broward,6,Miami/Ft. Lauderdale,The Miami Herald,2008,1,0,1,62008
+Dade,13,Miami/Ft. Lauderdale,The Miami Herald,2008,1,0,1,132008
+Monroe,44,Miami/Ft. Lauderdale,The Miami Herald,2008,1,0,1,442008
+Bay ,3,Panama City,The News Herald,2008,,,0,32008
+Calhoun,7,Panama City,The News Herald,2008,,,0,72008
+Franklin,19,Panama City,The News Herald,2008,,,0,192008
+Gulf,23,Panama City,The News Herald,2008,,,0,232008
+Holmes,30,Panama City,The News Herald,2008,,,0,302008
+Jackson,32,Panama City,The News Herald,2008,,,0,322008
+Liberty,39,Panama City,The News Herald,2008,,,0,392008
+Walton,66,Panama City,The News Herald,2008,,,0,662008
+Washington,67,Panama City,The News Herald,2008,,,0,672008
+Indian River,31,West Palm Beach/Ft. Piece,The Palm Beach Post,2008,1,0,1,312008
+Martin,43,West Palm Beach/Ft. Piece,The Palm Beach Post,2008,1,0,1,432008
+Okeechobee,47,West Palm Beach/Ft. Piece,The Palm Beach Post,2008,1,0,1,472008
+Palm Beach,50,West Palm Beach/Ft. Piece,The Palm Beach Post,2008,1,0,1,502008
+St. Lucie,59,West Palm Beach/Ft. Piece,The Palm Beach Post,2008,1,0,1,592008
+Baker,2,Jacksonville,Florida Times-Union,2006,1,0,1,22006
+Bradford,4,Jacksonville,Florida Times-Union,2006,1,0,1,42006
+Clay,10,Jacksonville,Florida Times-Union,2006,1,0,1,102006
+Columbia,12,Jacksonville,Florida Times-Union,2006,1,0,1,122006
+Duval,16,Jacksonville,Florida Times-Union,2006,1,0,1,162006
+Nassau,45,Jacksonville,Florida Times-Union,2006,1,0,1,452006
+Putnam,54,Jacksonville,Florida Times-Union,2006,1,0,1,542006
+St. Johns,58,Jacksonville,Florida Times-Union,2006,1,0,1,582006
+Union,63,Jacksonville,Florida Times-Union,2006,1,0,1,632006
+Charlotte,8,Ft. Myers/Naples,Naples Daily News,2006,1,0,1,82006
+Collier,11,Ft. Myers/Naples,Naples Daily News,2006,1,0,1,112006
+De Soto,14,Ft. Myers/Naples,Naples Daily News,2006,1,0,1,142006
+Glades,22,Ft. Myers/Naples,Naples Daily News,2006,1,0,1,222006
+Hendry,26,Ft. Myers/Naples,Naples Daily News,2006,1,0,1,262006
+Lee,36,Ft. Myers/Naples,Naples Daily News,2006,1,0,1,362006
+Brevard,5,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2006,1,0,1,52006
+Flagler,18,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2006,1,0,1,182006
+Lake,35,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2006,1,0,1,352006
+Marion,42,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2006,1,0,1,422006
+Orange,48,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2006,1,0,1,482006
+Osceola,49,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2006,1,0,1,492006
+Seminole,57,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2006,1,0,1,572006
+Sumter,60,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2006,1,0,1,602006
+Volusia,64,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2006,1,0,1,642006
+Escambia,17,Pensacola/Panhandle,Pensacola News Journal,2006,,,0,172006
+Okaloosa,46,Pensacola/Panhandle,Pensacola News Journal,2006,,,0,462006
+Sant Rosa,55,Pensacola/Panhandle,Pensacola News Journal,2006,,,0,552006
+Gadsen,20,Tallahassee,Tallahassee Democrat,2006,,,0,202006
+Hamilton,24,Tallahassee,Tallahassee Democrat,2006,1,0,1,242006
+Jefferson,33,Tallahassee,Tallahassee Democrat,2006,1,0,1,332006
+Lafayette,34,Tallahassee,Tallahassee Democrat,2006,1,0,1,342006
+Leon,37,Tallahassee,Tallahassee Democrat,2006,1,0,1,372006
+Madison,40,Tallahassee,Tallahassee Democrat,2006,1,0,1,402006
+Suwannee,61,Tallahassee,Tallahassee Democrat,2006,1,0,1,612006
+Taylor,62,Tallahassee,Tallahassee Democrat,2006,1,0,1,622006
+Wakulla,65,Tallahassee,Tallahassee Democrat,2006,1,0,1,652006
+Citrun,9,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2006,0,1,0,92006
+Hardee,25,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2006,0,1,0,252006
+Hernando,27,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2006,0,1,0,272006
+Highlands,28,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2006,0,1,0,282006
+Hillsborough,29,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2006,0,1,0,292006
+Manatee,41,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2006,0,1,0,412006
+Pasco,51,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2006,0,1,0,512006
+Pinellas,52,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2006,0,1,0,522006
+Polk,53,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2006,0,1,0,532006
+Sarasota,56,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2006,0,1,0,562006
+Alachua,1,Gainesville,The Gainesville Sun,2006,0,1,0,12006
+Dixie,15,Gainesville,The Gainesville Sun,2006,0,1,0,152006
+Gilchrist,21,Gainesville,The Gainesville Sun,2006,0,1,0,212006
+Levy,38,Gainesville,The Gainesville Sun,2006,0,1,0,382006
+Broward,6,Miami/Ft. Lauderdale,The Miami Herald,2006,1,0,1,62006
+Dade,13,Miami/Ft. Lauderdale,The Miami Herald,2006,1,0,1,132006
+Monroe,44,Miami/Ft. Lauderdale,The Miami Herald,2006,1,0,1,442006
+Bay ,3,Panama City,The News Herald,2006,,,0,32006
+Calhoun,7,Panama City,The News Herald,2006,,,0,72006
+Franklin,19,Panama City,The News Herald,2006,,,0,192006
+Gulf,23,Panama City,The News Herald,2006,,,0,232006
+Holmes,30,Panama City,The News Herald,2006,,,0,302006
+Jackson,32,Panama City,The News Herald,2006,,,0,322006
+Liberty,39,Panama City,The News Herald,2006,,,0,392006
+Walton,66,Panama City,The News Herald,2006,,,0,662006
+Washington,67,Panama City,The News Herald,2006,,,0,672006
+Indian River,31,West Palm Beach/Ft. Piece,The Palm Beach Post,2006,0,1,0,312006
+Martin,43,West Palm Beach/Ft. Piece,The Palm Beach Post,2006,0,1,0,432006
+Okeechobee,47,West Palm Beach/Ft. Piece,The Palm Beach Post,2006,0,1,0,472006
+Palm Beach,50,West Palm Beach/Ft. Piece,The Palm Beach Post,2006,0,1,0,502006
+St. Lucie,59,West Palm Beach/Ft. Piece,The Palm Beach Post,2006,0,1,0,592006
+Baker,2,Jacksonville,Florida Times-Union,2004,1,0,1,22004
+Bradford,4,Jacksonville,Florida Times-Union,2004,1,0,1,42004
+Clay,10,Jacksonville,Florida Times-Union,2004,1,0,1,102004
+Columbia,12,Jacksonville,Florida Times-Union,2004,1,0,1,122004
+Duval,16,Jacksonville,Florida Times-Union,2004,1,0,1,162004
+Nassau,45,Jacksonville,Florida Times-Union,2004,1,0,1,452004
+Putnam,54,Jacksonville,Florida Times-Union,2004,1,0,1,542004
+St. Johns,58,Jacksonville,Florida Times-Union,2004,1,0,1,582004
+Union,63,Jacksonville,Florida Times-Union,2004,1,0,1,632004
+Charlotte,8,Ft. Myers/Naples,Naples Daily News,2004,1,0,1,82004
+Collier,11,Ft. Myers/Naples,Naples Daily News,2004,1,0,1,112004
+De Soto,14,Ft. Myers/Naples,Naples Daily News,2004,1,0,1,142004
+Glades,22,Ft. Myers/Naples,Naples Daily News,2004,1,0,1,222004
+Hendry,26,Ft. Myers/Naples,Naples Daily News,2004,1,0,1,262004
+Lee,36,Ft. Myers/Naples,Naples Daily News,2004,1,0,1,362004
+Brevard,5,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2004,0,1,0,52004
+Flagler,18,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2004,0,1,0,182004
+Lake,35,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2004,0,1,0,352004
+Marion,42,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2004,0,1,0,422004
+Orange,48,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2004,0,1,0,482004
+Osceola,49,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2004,0,1,0,492004
+Seminole,57,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2004,0,1,0,572004
+Sumter,60,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2004,0,1,0,602004
+Volusia,64,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2004,0,1,0,642004
+Escambia,17,Pensacola/Panhandle,Pensacola News Journal,2004,,,0,172004
+Okaloosa,46,Pensacola/Panhandle,Pensacola News Journal,2004,,,0,462004
+Sant Rosa,55,Pensacola/Panhandle,Pensacola News Journal,2004,,,0,552004
+Gadsen,20,Tallahassee,Tallahassee Democrat,2004,,,0,202004
+Hamilton,24,Tallahassee,Tallahassee Democrat,2004,,,0,242004
+Jefferson,33,Tallahassee,Tallahassee Democrat,2004,,,0,332004
+Lafayette,34,Tallahassee,Tallahassee Democrat,2004,,,0,342004
+Leon,37,Tallahassee,Tallahassee Democrat,2004,,,0,372004
+Madison,40,Tallahassee,Tallahassee Democrat,2004,,,0,402004
+Suwannee,61,Tallahassee,Tallahassee Democrat,2004,,,0,612004
+Taylor,62,Tallahassee,Tallahassee Democrat,2004,,,0,622004
+Wakulla,65,Tallahassee,Tallahassee Democrat,2004,,,0,652004
+Citrun,9,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2004,0,1,0,92004
+Hardee,25,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2004,0,1,0,252004
+Hernando,27,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2004,0,1,0,272004
+Highlands,28,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2004,0,1,0,282004
+Hillsborough,29,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2004,0,1,0,292004
+Manatee,41,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2004,0,1,0,412004
+Pasco,51,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2004,0,1,0,512004
+Pinellas,52,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2004,0,1,0,522004
+Polk,53,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2004,0,1,0,532004
+Sarasota,56,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2004,0,1,0,562004
+Alachua,1,Gainesville,The Gainesville Sun,2004,0,1,0,12004
+Dixie,15,Gainesville,The Gainesville Sun,2004,0,1,0,152004
+Gilchrist,21,Gainesville,The Gainesville Sun,2004,0,1,0,212004
+Levy,38,Gainesville,The Gainesville Sun,2004,0,1,0,382004
+Broward,6,Miami/Ft. Lauderdale,The Miami Herald,2004,0,1,0,62004
+Dade,13,Miami/Ft. Lauderdale,The Miami Herald,2004,0,1,0,132004
+Monroe,44,Miami/Ft. Lauderdale,The Miami Herald,2004,0,1,0,442004
+Bay ,3,Panama City,The News Herald,2004,,,0,32004
+Calhoun,7,Panama City,The News Herald,2004,,,0,72004
+Franklin,19,Panama City,The News Herald,2004,,,0,192004
+Gulf,23,Panama City,The News Herald,2004,,,0,232004
+Holmes,30,Panama City,The News Herald,2004,,,0,302004
+Jackson,32,Panama City,The News Herald,2004,,,0,322004
+Liberty,39,Panama City,The News Herald,2004,,,0,392004
+Walton,66,Panama City,The News Herald,2004,,,0,662004
+Washington,67,Panama City,The News Herald,2004,,,0,672004
+Indian River,31,West Palm Beach/Ft. Piece,The Palm Beach Post,2004,0,1,0,312004
+Martin,43,West Palm Beach/Ft. Piece,The Palm Beach Post,2004,0,1,0,432004
+Okeechobee,47,West Palm Beach/Ft. Piece,The Palm Beach Post,2004,0,1,0,472004
+Palm Beach,50,West Palm Beach/Ft. Piece,The Palm Beach Post,2004,0,1,0,502004
+St. Lucie,59,West Palm Beach/Ft. Piece,The Palm Beach Post,2004,0,1,0,592004
+Baker,2,Jacksonville,Florida Times-Union,2002,1,0,1,22002
+Bradford,4,Jacksonville,Florida Times-Union,2002,1,0,1,42002
+Clay,10,Jacksonville,Florida Times-Union,2002,1,0,1,102002
+Columbia,12,Jacksonville,Florida Times-Union,2002,1,0,1,122002
+Duval,16,Jacksonville,Florida Times-Union,2002,1,0,1,162002
+Nassau,45,Jacksonville,Florida Times-Union,2002,1,0,1,452002
+Putnam,54,Jacksonville,Florida Times-Union,2002,1,0,1,542002
+St. Johns,58,Jacksonville,Florida Times-Union,2002,1,0,1,582002
+Union,63,Jacksonville,Florida Times-Union,2002,1,0,1,632002
+Charlotte,8,Ft. Myers/Naples,Naples Daily News,2002,1,0,1,82002
+Collier,11,Ft. Myers/Naples,Naples Daily News,2002,1,0,1,112002
+De Soto,14,Ft. Myers/Naples,Naples Daily News,2002,1,0,1,142002
+Glades,22,Ft. Myers/Naples,Naples Daily News,2002,1,0,1,222002
+Hendry,26,Ft. Myers/Naples,Naples Daily News,2002,1,0,1,262002
+Lee,36,Ft. Myers/Naples,Naples Daily News,2002,1,0,1,362002
+Brevard,5,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2002,1,0,1,52002
+Flagler,18,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2002,1,0,1,182002
+Lake,35,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2002,1,0,1,352002
+Marion,42,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2002,1,0,1,422002
+Orange,48,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2002,1,0,1,482002
+Osceola,49,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2002,1,0,1,492002
+Seminole,57,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2002,1,0,1,572002
+Sumter,60,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2002,1,0,1,602002
+Volusia,64,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2002,1,0,1,642002
+Escambia,17,Pensacola/Panhandle,Pensacola News Journal,2002,,,0,172002
+Okaloosa,46,Pensacola/Panhandle,Pensacola News Journal,2002,,,0,462002
+Sant Rosa,55,Pensacola/Panhandle,Pensacola News Journal,2002,,,0,552002
+Gadsen,20,Tallahassee,Tallahassee Democrat,2002,0,1,0,202002
+Hamilton,24,Tallahassee,Tallahassee Democrat,2002,0,1,0,242002
+Jefferson,33,Tallahassee,Tallahassee Democrat,2002,0,1,0,332002
+Lafayette,34,Tallahassee,Tallahassee Democrat,2002,0,1,0,342002
+Leon,37,Tallahassee,Tallahassee Democrat,2002,0,1,0,372002
+Madison,40,Tallahassee,Tallahassee Democrat,2002,0,1,0,402002
+Suwannee,61,Tallahassee,Tallahassee Democrat,2002,0,1,0,612002
+Taylor,62,Tallahassee,Tallahassee Democrat,2002,0,1,0,622002
+Wakulla,65,Tallahassee,Tallahassee Democrat,2002,0,1,0,652002
+Citrun,9,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2002,0,1,0,92002
+Hardee,25,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2002,0,1,0,252002
+Hernando,27,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2002,0,1,0,272002
+Highlands,28,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2002,0,1,0,282002
+Hillsborough,29,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2002,0,1,0,292002
+Manatee,41,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2002,0,1,0,412002
+Pasco,51,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2002,0,1,0,512002
+Pinellas,52,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2002,0,1,0,522002
+Polk,53,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2002,0,1,0,532002
+Sarasota,56,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2002,0,1,0,562002
+Alachua,1,Gainesville,The Gainesville Sun,2002,0,1,0,12002
+Dixie,15,Gainesville,The Gainesville Sun,2002,0,1,0,152002
+Gilchrist,21,Gainesville,The Gainesville Sun,2002,0,1,0,212002
+Levy,38,Gainesville,The Gainesville Sun,2002,0,1,0,382002
+Broward,6,Miami/Ft. Lauderdale,The Miami Herald,2002,1,0,1,62002
+Dade,13,Miami/Ft. Lauderdale,The Miami Herald,2002,1,0,1,132002
+Monroe,44,Miami/Ft. Lauderdale,The Miami Herald,2002,1,0,1,442002
+Bay ,3,Panama City,The News Herald,2002,,,0,32002
+Calhoun,7,Panama City,The News Herald,2002,,,0,72002
+Franklin,19,Panama City,The News Herald,2002,,,0,192002
+Gulf,23,Panama City,The News Herald,2002,,,0,232002
+Holmes,30,Panama City,The News Herald,2002,,,0,302002
+Jackson,32,Panama City,The News Herald,2002,,,0,322002
+Liberty,39,Panama City,The News Herald,2002,,,0,392002
+Walton,66,Panama City,The News Herald,2002,,,0,662002
+Washington,67,Panama City,The News Herald,2002,,,0,672002
+Indian River,31,West Palm Beach/Ft. Piece,The Palm Beach Post,2002,0,1,0,312002
+Martin,43,West Palm Beach/Ft. Piece,The Palm Beach Post,2002,0,1,0,432002
+Okeechobee,47,West Palm Beach/Ft. Piece,The Palm Beach Post,2002,0,1,0,472002
+Palm Beach,50,West Palm Beach/Ft. Piece,The Palm Beach Post,2002,0,1,0,502002
+St. Lucie,59,West Palm Beach/Ft. Piece,The Palm Beach Post,2002,0,1,0,592002
+Baker,2,Jacksonville,Florida Times-Union,2000,1,0,1,22000
+Bradford,4,Jacksonville,Florida Times-Union,2000,1,0,1,42000
+Clay,10,Jacksonville,Florida Times-Union,2000,1,0,1,102000
+Columbia,12,Jacksonville,Florida Times-Union,2000,1,0,1,122000
+Duval,16,Jacksonville,Florida Times-Union,2000,1,0,1,162000
+Nassau,45,Jacksonville,Florida Times-Union,2000,1,0,1,452000
+Putnam,54,Jacksonville,Florida Times-Union,2000,1,0,1,542000
+St. Johns,58,Jacksonville,Florida Times-Union,2000,1,0,1,582000
+Union,63,Jacksonville,Florida Times-Union,2000,1,0,1,632000
+Charlotte,8,Ft. Myers/Naples,Naples Daily News,2000,1,0,1,82000
+Collier,11,Ft. Myers/Naples,Naples Daily News,2000,1,0,1,112000
+De Soto,14,Ft. Myers/Naples,Naples Daily News,2000,1,0,1,142000
+Glades,22,Ft. Myers/Naples,Naples Daily News,2000,1,0,1,222000
+Hendry,26,Ft. Myers/Naples,Naples Daily News,2000,1,0,1,262000
+Lee,36,Ft. Myers/Naples,Naples Daily News,2000,1,0,1,362000
+Brevard,5,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2000,1,0,1,52000
+Flagler,18,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2000,1,0,1,182000
+Lake,35,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2000,1,0,1,352000
+Marion,42,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2000,1,0,1,422000
+Orange,48,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2000,1,0,1,482000
+Osceola,49,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2000,1,0,1,492000
+Seminole,57,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2000,1,0,1,572000
+Sumter,60,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2000,1,0,1,602000
+Volusia,64,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,2000,1,0,1,642000
+Escambia,17,Pensacola/Panhandle,Pensacola News Journal,2000,,,0,172000
+Okaloosa,46,Pensacola/Panhandle,Pensacola News Journal,2000,,,0,462000
+Sant Rosa,55,Pensacola/Panhandle,Pensacola News Journal,2000,,,0,552000
+Gadsen,20,Tallahassee,Tallahassee Democrat,2000,,,0,202000
+Hamilton,24,Tallahassee,Tallahassee Democrat,2000,,,0,242000
+Jefferson,33,Tallahassee,Tallahassee Democrat,2000,,,0,332000
+Lafayette,34,Tallahassee,Tallahassee Democrat,2000,,,0,342000
+Leon,37,Tallahassee,Tallahassee Democrat,2000,,,0,372000
+Madison,40,Tallahassee,Tallahassee Democrat,2000,,,0,402000
+Suwannee,61,Tallahassee,Tallahassee Democrat,2000,,,0,612000
+Taylor,62,Tallahassee,Tallahassee Democrat,2000,,,0,622000
+Wakulla,65,Tallahassee,Tallahassee Democrat,2000,,,0,652000
+Citrun,9,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2000,0,1,0,92000
+Hardee,25,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2000,0,1,0,252000
+Hernando,27,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2000,0,1,0,272000
+Highlands,28,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2000,0,1,0,282000
+Hillsborough,29,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2000,0,1,0,292000
+Manatee,41,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2000,0,1,0,412000
+Pasco,51,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2000,0,1,0,512000
+Pinellas,52,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2000,0,1,0,522000
+Polk,53,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2000,0,1,0,532000
+Sarasota,56,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,2000,0,1,0,562000
+Alachua,1,Gainesville,The Gainesville Sun,2000,0,1,0,12000
+Dixie,15,Gainesville,The Gainesville Sun,2000,0,1,0,152000
+Gilchrist,21,Gainesville,The Gainesville Sun,2000,0,1,0,212000
+Levy,38,Gainesville,The Gainesville Sun,2000,0,1,0,382000
+Broward,6,Miami/Ft. Lauderdale,The Miami Herald,2000,0,1,0,62000
+Dade,13,Miami/Ft. Lauderdale,The Miami Herald,2000,0,1,0,132000
+Monroe,44,Miami/Ft. Lauderdale,The Miami Herald,2000,0,1,0,442000
+Bay ,3,Panama City,The News Herald,2000,,,0,32000
+Calhoun,7,Panama City,The News Herald,2000,,,0,72000
+Franklin,19,Panama City,The News Herald,2000,,,0,192000
+Gulf,23,Panama City,The News Herald,2000,,,0,232000
+Holmes,30,Panama City,The News Herald,2000,,,0,302000
+Jackson,32,Panama City,The News Herald,2000,,,0,322000
+Liberty,39,Panama City,The News Herald,2000,,,0,392000
+Walton,66,Panama City,The News Herald,2000,,,0,662000
+Washington,67,Panama City,The News Herald,2000,,,0,672000
+Indian River,31,West Palm Beach/Ft. Piece,The Palm Beach Post,2000,0,1,0,312000
+Martin,43,West Palm Beach/Ft. Piece,The Palm Beach Post,2000,0,1,0,432000
+Okeechobee,47,West Palm Beach/Ft. Piece,The Palm Beach Post,2000,0,1,0,472000
+Palm Beach,50,West Palm Beach/Ft. Piece,The Palm Beach Post,2000,0,1,0,502000
+St. Lucie,59,West Palm Beach/Ft. Piece,The Palm Beach Post,2000,0,1,0,592000
+Baker,2,Jacksonville,Florida Times-Union,1998,1,0,1,21998
+Bradford,4,Jacksonville,Florida Times-Union,1998,1,0,1,41998
+Clay,10,Jacksonville,Florida Times-Union,1998,1,0,1,101998
+Columbia,12,Jacksonville,Florida Times-Union,1998,1,0,1,121998
+Duval,16,Jacksonville,Florida Times-Union,1998,1,0,1,161998
+Nassau,45,Jacksonville,Florida Times-Union,1998,1,0,1,451998
+Putnam,54,Jacksonville,Florida Times-Union,1998,1,0,1,541998
+St. Johns,58,Jacksonville,Florida Times-Union,1998,1,0,1,581998
+Union,63,Jacksonville,Florida Times-Union,1998,1,0,1,631998
+Charlotte,8,Ft. Myers/Naples,Naples Daily News,1998,1,0,1,81998
+Collier,11,Ft. Myers/Naples,Naples Daily News,1998,1,0,1,111998
+De Soto,14,Ft. Myers/Naples,Naples Daily News,1998,1,0,1,141998
+Glades,22,Ft. Myers/Naples,Naples Daily News,1998,1,0,1,221998
+Hendry,26,Ft. Myers/Naples,Naples Daily News,1998,1,0,1,261998
+Lee,36,Ft. Myers/Naples,Naples Daily News,1998,1,0,1,361998
+Brevard,5,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1998,1,0,1,51998
+Flagler,18,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1998,1,0,1,181998
+Lake,35,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1998,1,0,1,351998
+Marion,42,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1998,1,0,1,421998
+Orange,48,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1998,1,0,1,481998
+Osceola,49,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1998,1,0,1,491998
+Seminole,57,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1998,1,0,1,571998
+Sumter,60,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1998,1,0,1,601998
+Volusia,64,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1998,1,0,1,641998
+Escambia,17,Pensacola/Panhandle,Pensacola News Journal,1998,,,0,171998
+Okaloosa,46,Pensacola/Panhandle,Pensacola News Journal,1998,,,0,461998
+Sant Rosa,55,Pensacola/Panhandle,Pensacola News Journal,1998,,,0,551998
+Gadsen,20,Tallahassee,Tallahassee Democrat,1998,,,0,201998
+Hamilton,24,Tallahassee,Tallahassee Democrat,1998,,,0,241998
+Jefferson,33,Tallahassee,Tallahassee Democrat,1998,,,0,331998
+Lafayette,34,Tallahassee,Tallahassee Democrat,1998,,,0,341998
+Leon,37,Tallahassee,Tallahassee Democrat,1998,,,0,371998
+Madison,40,Tallahassee,Tallahassee Democrat,1998,,,0,401998
+Suwannee,61,Tallahassee,Tallahassee Democrat,1998,,,0,611998
+Taylor,62,Tallahassee,Tallahassee Democrat,1998,,,0,621998
+Wakulla,65,Tallahassee,Tallahassee Democrat,1998,,,0,651998
+Citrun,9,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1998,0,1,0,91998
+Hardee,25,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1998,0,1,0,251998
+Hernando,27,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1998,0,1,0,271998
+Highlands,28,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1998,0,1,0,281998
+Hillsborough,29,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1998,0,1,0,291998
+Manatee,41,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1998,0,1,0,411998
+Pasco,51,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1998,0,1,0,511998
+Pinellas,52,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1998,0,1,0,521998
+Polk,53,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1998,0,1,0,531998
+Sarasota,56,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1998,0,1,0,561998
+Alachua,1,Gainesville,The Gainesville Sun,1998,1,0,1,11998
+Dixie,15,Gainesville,The Gainesville Sun,1998,1,0,1,151998
+Gilchrist,21,Gainesville,The Gainesville Sun,1998,1,0,1,211998
+Levy,38,Gainesville,The Gainesville Sun,1998,1,0,1,381998
+Broward,6,Miami/Ft. Lauderdale,The Miami Herald,1998,1,0,1,61998
+Dade,13,Miami/Ft. Lauderdale,The Miami Herald,1998,1,0,1,131998
+Monroe,44,Miami/Ft. Lauderdale,The Miami Herald,1998,1,0,1,441998
+Bay ,3,Panama City,The News Herald,1998,,,0,31998
+Calhoun,7,Panama City,The News Herald,1998,,,0,71998
+Franklin,19,Panama City,The News Herald,1998,,,0,191998
+Gulf,23,Panama City,The News Herald,1998,,,0,231998
+Holmes,30,Panama City,The News Herald,1998,,,0,301998
+Jackson,32,Panama City,The News Herald,1998,,,0,321998
+Liberty,39,Panama City,The News Herald,1998,,,0,391998
+Walton,66,Panama City,The News Herald,1998,,,0,661998
+Washington,67,Panama City,The News Herald,1998,,,0,671998
+Indian River,31,West Palm Beach/Ft. Piece,The Palm Beach Post,1998,0,1,0,311998
+Martin,43,West Palm Beach/Ft. Piece,The Palm Beach Post,1998,0,1,0,431998
+Okeechobee,47,West Palm Beach/Ft. Piece,The Palm Beach Post,1998,0,1,0,471998
+Palm Beach,50,West Palm Beach/Ft. Piece,The Palm Beach Post,1998,0,1,0,501998
+St. Lucie,59,West Palm Beach/Ft. Piece,The Palm Beach Post,1998,0,1,0,591998
+Baker,2,Jacksonville,Florida Times-Union,1996,0,1,0,21996
+Bradford,4,Jacksonville,Florida Times-Union,1996,0,1,0,41996
+Clay,10,Jacksonville,Florida Times-Union,1996,0,1,0,101996
+Columbia,12,Jacksonville,Florida Times-Union,1996,0,1,0,121996
+Duval,16,Jacksonville,Florida Times-Union,1996,0,1,0,161996
+Nassau,45,Jacksonville,Florida Times-Union,1996,0,1,0,451996
+Putnam,54,Jacksonville,Florida Times-Union,1996,0,1,0,541996
+St. Johns,58,Jacksonville,Florida Times-Union,1996,0,1,0,581996
+Union,63,Jacksonville,Florida Times-Union,1996,0,1,0,631996
+Charlotte,8,Ft. Myers/Naples,Naples Daily News,1996,0,1,0,81996
+Collier,11,Ft. Myers/Naples,Naples Daily News,1996,0,1,0,111996
+De Soto,14,Ft. Myers/Naples,Naples Daily News,1996,0,1,0,141996
+Glades,22,Ft. Myers/Naples,Naples Daily News,1996,0,1,0,221996
+Hendry,26,Ft. Myers/Naples,Naples Daily News,1996,0,1,0,261996
+Lee,36,Ft. Myers/Naples,Naples Daily News,1996,0,1,0,361996
+Brevard,5,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1996,0,1,0,51996
+Flagler,18,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1996,0,1,0,181996
+Lake,35,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1996,0,1,0,351996
+Marion,42,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1996,0,1,0,421996
+Orange,48,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1996,0,1,0,481996
+Osceola,49,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1996,0,1,0,491996
+Seminole,57,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1996,0,1,0,571996
+Sumter,60,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1996,0,1,0,601996
+Volusia,64,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1996,0,1,0,641996
+Escambia,17,Pensacola/Panhandle,Pensacola News Journal,1996,,,0,171996
+Okaloosa,46,Pensacola/Panhandle,Pensacola News Journal,1996,,,0,461996
+Sant Rosa,55,Pensacola/Panhandle,Pensacola News Journal,1996,,,0,551996
+Gadsen,20,Tallahassee,Tallahassee Democrat,1996,,,0,201996
+Hamilton,24,Tallahassee,Tallahassee Democrat,1996,,,0,241996
+Jefferson,33,Tallahassee,Tallahassee Democrat,1996,,,0,331996
+Lafayette,34,Tallahassee,Tallahassee Democrat,1996,,,0,341996
+Leon,37,Tallahassee,Tallahassee Democrat,1996,,,0,371996
+Madison,40,Tallahassee,Tallahassee Democrat,1996,,,0,401996
+Suwannee,61,Tallahassee,Tallahassee Democrat,1996,,,0,611996
+Taylor,62,Tallahassee,Tallahassee Democrat,1996,,,0,621996
+Wakulla,65,Tallahassee,Tallahassee Democrat,1996,,,0,651996
+Citrun,9,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1996,1,0,1,91996
+Hardee,25,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1996,1,0,1,251996
+Hernando,27,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1996,1,0,1,271996
+Highlands,28,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1996,1,0,1,281996
+Hillsborough,29,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1996,1,0,1,291996
+Manatee,41,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1996,1,0,1,411996
+Pasco,51,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1996,1,0,1,511996
+Pinellas,52,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1996,1,0,1,521996
+Polk,53,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1996,1,0,1,531996
+Sarasota,56,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1996,1,0,1,561996
+Alachua,1,Gainesville,The Gainesville Sun,1996,1,0,1,11996
+Dixie,15,Gainesville,The Gainesville Sun,1996,1,0,1,151996
+Gilchrist,21,Gainesville,The Gainesville Sun,1996,1,0,1,211996
+Levy,38,Gainesville,The Gainesville Sun,1996,1,0,1,381996
+Broward,6,Miami/Ft. Lauderdale,The Miami Herald,1996,9,9,0,61996
+Dade,13,Miami/Ft. Lauderdale,The Miami Herald,1996,9,9,0,131996
+Monroe,44,Miami/Ft. Lauderdale,The Miami Herald,1996,9,9,0,441996
+Bay ,3,Panama City,The News Herald,1996,,,0,31996
+Calhoun,7,Panama City,The News Herald,1996,,,0,71996
+Franklin,19,Panama City,The News Herald,1996,,,0,191996
+Gulf,23,Panama City,The News Herald,1996,,,0,231996
+Holmes,30,Panama City,The News Herald,1996,,,0,301996
+Jackson,32,Panama City,The News Herald,1996,,,0,321996
+Liberty,39,Panama City,The News Herald,1996,,,0,391996
+Walton,66,Panama City,The News Herald,1996,,,0,661996
+Washington,67,Panama City,The News Herald,1996,,,0,671996
+Indian River,31,West Palm Beach/Ft. Piece,The Palm Beach Post,1996,1,0,1,311996
+Martin,43,West Palm Beach/Ft. Piece,The Palm Beach Post,1996,1,0,1,431996
+Okeechobee,47,West Palm Beach/Ft. Piece,The Palm Beach Post,1996,1,0,1,471996
+Palm Beach,50,West Palm Beach/Ft. Piece,The Palm Beach Post,1996,1,0,1,501996
+St. Lucie,59,West Palm Beach/Ft. Piece,The Palm Beach Post,1996,1,0,1,591996
+Baker,2,Jacksonville,Florida Times-Union,1994,0,1,0,21994
+Bradford,4,Jacksonville,Florida Times-Union,1994,0,1,0,41994
+Clay,10,Jacksonville,Florida Times-Union,1994,0,1,0,101994
+Columbia,12,Jacksonville,Florida Times-Union,1994,0,1,0,121994
+Duval,16,Jacksonville,Florida Times-Union,1994,0,1,0,161994
+Nassau,45,Jacksonville,Florida Times-Union,1994,0,1,0,451994
+Putnam,54,Jacksonville,Florida Times-Union,1994,0,1,0,541994
+St. Johns,58,Jacksonville,Florida Times-Union,1994,0,1,0,581994
+Union,63,Jacksonville,Florida Times-Union,1994,0,1,0,631994
+Charlotte,8,Ft. Myers/Naples,Naples Daily News,1994,,,0,81994
+Collier,11,Ft. Myers/Naples,Naples Daily News,1994,,,0,111994
+De Soto,14,Ft. Myers/Naples,Naples Daily News,1994,,,0,141994
+Glades,22,Ft. Myers/Naples,Naples Daily News,1994,,,0,221994
+Hendry,26,Ft. Myers/Naples,Naples Daily News,1994,,,0,261994
+Lee,36,Ft. Myers/Naples,Naples Daily News,1994,,,0,361994
+Brevard,5,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1994,1,0,1,51994
+Flagler,18,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1994,1,0,1,181994
+Lake,35,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1994,1,0,1,351994
+Marion,42,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1994,1,0,1,421994
+Orange,48,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1994,1,0,1,481994
+Osceola,49,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1994,1,0,1,491994
+Seminole,57,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1994,1,0,1,571994
+Sumter,60,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1994,1,0,1,601994
+Volusia,64,Orlando/Daytona Beach/Melbourne,Orlando Sentinel,1994,1,0,1,641994
+Escambia,17,Pensacola/Panhandle,Pensacola News Journal,1994,,,0,171994
+Okaloosa,46,Pensacola/Panhandle,Pensacola News Journal,1994,,,0,461994
+Sant Rosa,55,Pensacola/Panhandle,Pensacola News Journal,1994,,,0,551994
+Gadsen,20,Tallahassee,Tallahassee Democrat,1994,,,0,201994
+Hamilton,24,Tallahassee,Tallahassee Democrat,1994,,,0,241994
+Jefferson,33,Tallahassee,Tallahassee Democrat,1994,,,0,331994
+Lafayette,34,Tallahassee,Tallahassee Democrat,1994,,,0,341994
+Leon,37,Tallahassee,Tallahassee Democrat,1994,,,0,371994
+Madison,40,Tallahassee,Tallahassee Democrat,1994,,,0,401994
+Suwannee,61,Tallahassee,Tallahassee Democrat,1994,,,0,611994
+Taylor,62,Tallahassee,Tallahassee Democrat,1994,,,0,621994
+Wakulla,65,Tallahassee,Tallahassee Democrat,1994,,,0,651994
+Citrun,9,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1994,1,0,1,91994
+Hardee,25,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1994,1,0,1,251994
+Hernando,27,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1994,1,0,1,271994
+Highlands,28,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1994,1,0,1,281994
+Hillsborough,29,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1994,1,0,1,291994
+Manatee,41,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1994,1,0,1,411994
+Pasco,51,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1994,1,0,1,511994
+Pinellas,52,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1994,1,0,1,521994
+Polk,53,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1994,1,0,1,531994
+Sarasota,56,Tampa/St. Petersburg/Sarasota,Tampa Bay Times,1994,1,0,1,561994
+Alachua,1,Gainesville,The Gainesville Sun,1994,1,0,1,11994
+Dixie,15,Gainesville,The Gainesville Sun,1994,1,0,1,151994
+Gilchrist,21,Gainesville,The Gainesville Sun,1994,1,0,1,211994
+Levy,38,Gainesville,The Gainesville Sun,1994,1,0,1,381994
+Broward,6,Miami/Ft. Lauderdale,The Miami Herald,1994,1,0,1,61994
+Dade,13,Miami/Ft. Lauderdale,The Miami Herald,1994,1,0,1,131994
+Monroe,44,Miami/Ft. Lauderdale,The Miami Herald,1994,1,0,1,441994
+Bay ,3,Panama City,The News Herald,1994,,,0,31994
+Calhoun,7,Panama City,The News Herald,1994,,,0,71994
+Franklin,19,Panama City,The News Herald,1994,,,0,191994
+Gulf,23,Panama City,The News Herald,1994,,,0,231994
+Holmes,30,Panama City,The News Herald,1994,,,0,301994
+Jackson,32,Panama City,The News Herald,1994,,,0,321994
+Liberty,39,Panama City,The News Herald,1994,,,0,391994
+Walton,66,Panama City,The News Herald,1994,,,0,661994
+Washington,67,Panama City,The News Herald,1994,,,0,671994
+Indian River,31,West Palm Beach/Ft. Piece,The Palm Beach Post,1994,1,0,1,311994
+Martin,43,West Palm Beach/Ft. Piece,The Palm Beach Post,1994,1,0,1,431994
+Okeechobee,47,West Palm Beach/Ft. Piece,The Palm Beach Post,1994,1,0,1,471994
+Palm Beach,50,West Palm Beach/Ft. Piece,The Palm Beach Post,1994,1,0,1,501994
+St. Lucie,59,West Palm Beach/Ft. Piece,The Palm Beach Post,1994,1,0,1,591994
